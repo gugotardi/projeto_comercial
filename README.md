@@ -1,3 +1,11 @@
+Projeto de aplicação web para localização de empresas
+
+Sistema possuí um backoffice onde é efetuado o cadastro das empresas e uma página home onde os usários realizam buscas afim de procurar informações sobre as empresas.
+
+
+
+
+
 <p align="center"><img src="https://res.cloudinary.com/dtfbvvkyp/image/upload/v1566331377/laravel-logolockup-cmyk-red.svg" width="400"></p>
 
 <p align="center">
