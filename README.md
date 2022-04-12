@@ -4,9 +4,9 @@ Sistema possuí um backoffice onde é efetuado o cadastro das empresas e uma pá
 
 Ferramentas utilizadas.
 
-html/css/bootstrap
-PHP (Laravel)
-Mysql
+html/css/bootstrap <br>
+PHP (Laravel) <br>
+Mysql <br>
 
 
 
