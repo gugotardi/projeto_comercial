@@ -2,6 +2,12 @@ Projeto de aplicação web para localização de empresas
 
 Sistema possuí um backoffice onde é efetuado o cadastro das empresas e uma página home onde os usários realizam buscas afim de procurar informações sobre as empresas.
 
+Ferramentas utilizadas.
+
+html/css/bootstrap
+PHP (Laravel)
+Mysql
+
 
 
 
